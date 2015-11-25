@@ -1,0 +1,1 @@
+/home/hanhpv/www/magento2/vendor/magento/module-offline-payments/view/frontend/web/js/view/payment/offline-payments.js
