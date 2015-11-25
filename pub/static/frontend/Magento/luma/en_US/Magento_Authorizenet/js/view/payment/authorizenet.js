@@ -1,1 +1,0 @@
-/home/hanhpv/www/magento2/vendor/magento/module-authorizenet/view/frontend/web/js/view/payment/authorizenet.js

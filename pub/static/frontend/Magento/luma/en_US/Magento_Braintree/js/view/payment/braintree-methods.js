@@ -1,1 +1,0 @@
-/home/hanhpv/www/magento2/vendor/magento/module-braintree/view/frontend/web/js/view/payment/braintree-methods.js

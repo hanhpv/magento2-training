@@ -1,1 +1,0 @@
-/home/hanhpv/www/magento2/vendor/magento/module-downloadable/view/adminhtml/web/downloadable-type-handler.js
