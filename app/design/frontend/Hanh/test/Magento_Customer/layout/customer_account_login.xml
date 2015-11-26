@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="2columns-right" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <html>
+        <attribute name="data-hanh" value="testing"></attribute>
+        <attribute name="ng-app" value="mobiapp"></attribute>
+        <attribute name="lang" value="vi-VN"></attribute>
+    </html>
+    <head>
+        <title>Making love out of nothing at all</title>
+        <css src="css/test.css" type="text/css"></css>
+        <script src="js/test.js" type="text/javascript"></script>
+    </head>
+    <body>
+        <referenceBlock name="report.bugs" remove="true"/>
+    </body>
+</page>
