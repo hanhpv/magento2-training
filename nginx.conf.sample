@@ -1,6 +1,6 @@
 # Magento Vars
 # set $MAGE_ROOT /path/to/magento/root;
-# set $MAGE_MODE default; # or production or developer
+set $MAGE_MODE developer; # or production or developer
 #
 # Example configuration:
 # upstream fastcgi_backend {
